@@ -1,6 +1,6 @@
 provider "kubernetes" {
   config_path    = "~/.kube/config"
-  config_context = "arn:aws:eks:eu-west-3:211125306909:cluster/dev-cluster"
+  config_context = ""
 }
 
 
